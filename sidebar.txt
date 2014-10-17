@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fkv:home|Door43 (fkv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fkv|d43-fkv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fkv/archive/master.zip|d43-fkv.zip]]
+
+**Recent Changes**
+{{changes>ns = fkv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fkv|Ethnologue data]]
+
